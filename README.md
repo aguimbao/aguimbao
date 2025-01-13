@@ -1,6 +1,6 @@
 <div align="center">
   <!-- My Site button as a larger Shields.io badge -->
-  <a href="https://abrahamguimbao.uwu.ai" target="_blank">
+  <a href="https://abrahamguimbao.carrd.co" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Site-2196F3?style=for-the-badge&logoColor=white&color=2196F3&labelFont=bold" alt="Visit My Site" style="height: 60px;">
   </a>
 </div>
